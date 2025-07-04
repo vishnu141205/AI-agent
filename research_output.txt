@@ -1,0 +1,5 @@
+--- Research Output ---
+Timestamp: 2025-07-02 23:27:16
+
+topic='India GDP' summary="India's GDP is expected to grow by 6.4% in FY 2024-25, driven by private consumption, construction, and services sectors. The country has been the fastest growing major economy in the world for the last ten years, with a 105% growth in the last decade." sources=['International Monetary Fund', 'National Statistics Office'] tools_used=['Statista', 'IMF Data']
+
